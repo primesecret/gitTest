@@ -2,5 +2,7 @@
 // this is main branch (메인꺼)
 // 이것은 두번째 글이다.
 function main() {
-    var i = 10;
+    var i = 100;
+    var j = 200;
+    return j - i;
 }
